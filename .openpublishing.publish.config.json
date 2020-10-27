@@ -15,9 +15,7 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": [
-    "e2e_20201027030017@microsoft.com"
-  ],
+  "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/OPS-E2E-PPE/RepoSetting_PPE",
