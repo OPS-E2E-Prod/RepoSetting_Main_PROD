@@ -19,7 +19,7 @@
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/OPS-E2E-PPE/RepoSetting_PPE20210202030216",
-  "git_repository_branch_open_to_public_contributors": "e2e_20210201033400",
+  "git_repository_branch_open_to_public_contributors": "e2e_20210202030408",
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
   "need_pr_comments": false,
